@@ -74,7 +74,7 @@ body {
     width: 100%;
     background-color: var(--primary-green-400);
     padding: 15px 0;
-    color: var(--neutral-teal-100);
+    color: white;
     font-weight: bolder;
     border: none;
     border-radius: 5px;
@@ -83,7 +83,7 @@ body {
   }
   & button:hover {
     color: var(--primary-green-400);
-    background-color: var(--neutral-teal-100);
+    background-color: white;
   }
   & button:active {
     color: var(--primary-green-400);
